@@ -1,2 +1,22 @@
-# wav2mp3
-A simple Python application to convert WAV files to MP3.
+# Python学習ノート
+
+## このリポジトリについて
+
+Pythonを学びながら理解した内容をまとめています。
+
+## 学習方針
+
+コードを丸暗記するのではなく、
+仕組みを理解しながら学習することを目標としています。
+
+## 作成予定
+
+- Wav2MP3
+- GUI版Wav2MP3
+
+## 学習メモ
+
+- ライブラリ
+- パッケージ
+- モジュール
+- メソッド
